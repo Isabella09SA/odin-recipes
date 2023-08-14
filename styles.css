@@ -1,0 +1,40 @@
+body {
+    background-color: burlywood;
+}
+
+body.recipe-page {
+    text-align: center;
+}
+
+.title-container {
+    background-color:beige;
+    border: 2px solid dimgray;
+    margin: 20px;
+    padding: 10px;
+}
+
+.title {
+    text-align: center;
+    color: black;
+}
+
+.recipe-link {
+    font-size: 20px;
+}
+
+div.recipes-container {
+    background-color:navajowhite;
+    border: 2px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    color: gray;
+    text-decoration: none;
+}
+
+img {
+    
+}
