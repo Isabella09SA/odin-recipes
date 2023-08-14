@@ -42,3 +42,23 @@ a.recipe-link {
     margin: 30px;
     padding: 20px;
 }
+
+.recipe-container {
+    background-color: navajowhite;
+    display: inline-block;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+
+.info-container {
+    background-color: rgba(199, 175, 139, 0.712);
+    border: 1px solid rgba(128, 128, 128, 0.466);
+    margin: 10px;
+}
+
+img.recipe-image {
+    border: 2px solid black;
+    height: 500px;
+    width: auto;
+}
